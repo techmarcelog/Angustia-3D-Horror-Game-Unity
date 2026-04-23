@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 7a91a0df25128884f9832a878bf1b8ab
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteCaneta: {fileID: 21300000, guid: 29df0004140643b4f8c7a9cf2b1307cb, type: 3}
+  - spriteCano: {instanceID: 0}
+  - spriteChave: {instanceID: 0}
+  - spriteIsqueiro: {instanceID: 0}
+  - spriteLanterna: {instanceID: 0}
+  - spritePilha: {instanceID: 0}
+  - spriteRemedio: {instanceID: 0}
+  - spriteSeringa: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
